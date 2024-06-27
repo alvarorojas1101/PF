@@ -128,4 +128,4 @@ Para más información o consultas, puedes contactarme en:
 ¡Conéctate conmigo y comencemos a construir algo increíble juntos!
 ```
 
-Este README.md ahora incluye la descripción del proyecto, características principales, tecnologías utilizadas, guía de instalación y uso, instrucciones para contribuir, y la información de contacto. Puedes copiar y pegar este contenido en el archivo README.md de tu repositorio.
+
